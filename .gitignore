@@ -1,1 +1,19 @@
+# Python
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+.env/
+
+# uv build cache
+.uv/
+
+# Kivy logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
